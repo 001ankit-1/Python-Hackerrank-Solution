@@ -1,1 +1,1 @@
-# pytho-solution
+# python-solution
