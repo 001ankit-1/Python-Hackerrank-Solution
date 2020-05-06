@@ -1,0 +1,8 @@
+if __name__ == '__main__':
+    n = int(input())
+    arr = map(int, input().split())
+    l1=sorted(list(arr),reverse=True)
+    for i in l1:
+        if(i<l1[0]):
+            print(i)
+            break
